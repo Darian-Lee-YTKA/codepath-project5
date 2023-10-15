@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 - [X] App allows you to select your species and then shows you content tailored to that species 
 ## Video Walkthrough
 
-<img src='75b7fe8e-85cc-4194-8d88-d77cf030b6bb (1).gif' width='400' alt='Video Walkthrough' />
+<img src='ceb403a8-79b4-4bbb-9c6d-2fc947f2f105.gif' width='400' alt='Video Walkthrough' />
 
 ## Notes
 
